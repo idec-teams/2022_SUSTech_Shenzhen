@@ -2359,9 +2359,10 @@ Breadcrumb Area
 
 .saastrace-footer-area {
     position: relative;
-    padding-top: 200px;
+    margin-top: -20%;
     padding-bottom: 20px;
-    background-color: #D2AEFA;
+    background-color: #FFFFFF;
+    z-index: -10;
 }
 
 .saastrace-footer-area.normal-padding {
