@@ -2283,6 +2283,10 @@ Breadcrumb Area
     margin-left: 30px;
 }
 
+.answers-right-content {
+    margin-right: 30px;
+}
+
 .answers-left-content p {
     margin: 40px 0;
     font-size: 25px;
@@ -2290,6 +2294,16 @@ Breadcrumb Area
 }
 
 .answers-left-content p {
+    color: #FFFFFF;
+}
+
+.answers-right-content p {
+    margin: 40px 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.answers-right-content p {
     color: #FFFFFF;
 }
 
